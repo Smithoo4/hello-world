@@ -1,2 +1,3 @@
 # hello-world
-My Hello Word repository for learning about Github and stuff
+
+This is my Hello World repository. I am using to learn Github and other stuff like python in my spare time as a hobby.
